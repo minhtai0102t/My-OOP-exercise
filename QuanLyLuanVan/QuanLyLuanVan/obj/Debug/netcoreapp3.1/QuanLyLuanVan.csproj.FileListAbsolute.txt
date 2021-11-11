@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\netcoreapp3.1\QuanLyLuanVan.exe
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\netcoreapp3.1\QuanLyLuanVan.deps.json
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\netcoreapp3.1\QuanLyLuanVan.runtimeconfig.json
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\netcoreapp3.1\QuanLyLuanVan.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\netcoreapp3.1\QuanLyLuanVan.dll
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\netcoreapp3.1\QuanLyLuanVan.pdb
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\netcoreapp3.1\QuanLyLuanVan.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\netcoreapp3.1\QuanLyLuanVan.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\netcoreapp3.1\QuanLyLuanVan.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\netcoreapp3.1\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\netcoreapp3.1\QuanLyLuanVan.dll
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\netcoreapp3.1\QuanLyLuanVan.pdb
+C:\Users\LENOVO\source\repos\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\netcoreapp3.1\QuanLyLuanVan.genruntimeconfig.cache

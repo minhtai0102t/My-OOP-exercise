@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\ThucHanh2\ThucHanh2\bin\Debug\ThucHanh2.exe.config
+C:\Users\LENOVO\source\repos\ThucHanh2\ThucHanh2\bin\Debug\ThucHanh2.exe
+C:\Users\LENOVO\source\repos\ThucHanh2\ThucHanh2\bin\Debug\ThucHanh2.pdb
+C:\Users\LENOVO\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.Form1.resources
+C:\Users\LENOVO\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.exe
+C:\Users\LENOVO\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.pdb
